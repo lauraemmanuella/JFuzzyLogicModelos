@@ -1,4 +1,3 @@
-//https://www.git.pe.gov.br/LIGOV/IA20171-2-Classificacao/tree/master/Codigo/jFuzzyLogic
 FUNCTION_BLOCK MamdaniQoSFewRules
 
 VAR_INPUT
